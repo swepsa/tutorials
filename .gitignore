@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+*.iml
+/workspace.xml
+.idea
+target
+music.txt
